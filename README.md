@@ -1,8 +1,8 @@
 # Trend-Analysis-and-Forecasting-of-Tourist-Arrivals-in-Sri-Lanka
 
-# 🇱🇰 Tourist Arrival Dynamics and Time Series Forecasting in Sri Lanka (1971–2023)
+# Tourist Arrival Dynamics and Time Series Forecasting in Sri Lanka (1971–2023)
 
-A comprehensive empirical research project evaluating historical tourist arrival dynamics in Sri Lanka over a 52-year period (1971–2023) using statistical trend analysis, multi-variable linear regression, and Seasonal Autoregressive Integrated Moving Average (SARIMA) time series modeling[cite: 1].
+A comprehensive empirical research project evaluating historical tourist arrival dynamics in Sri Lanka over a 52-year period (1971–2023) using statistical trend analysis, multi-variable linear regression, and Seasonal Autoregressive Integrated Moving Average (SARIMA) time series modeling.
 
 ---
 
@@ -19,8 +19,8 @@ A comprehensive empirical research project evaluating historical tourist arrival
 This project employs a dual-software statistical framework to analyze tourist arrival patterns, socio-demographics, and forecasting models:
 
 * **Minitab**:
-  * **Descriptive Statistics**: Evaluated socio-demographic features (age, gender, occupation, visit purpose) and seasonal variations[cite: 1].
-  * **Linear Regression & Trend Analysis**: Modeled long-term linear trajectories for trip purposes, duration of stay, demographics, and source regions[cite: 1].
+  * **Descriptive Statistics**: Evaluated socio-demographic features (age, gender, occupation, visit purpose) and seasonal variations.
+  * **Linear Regression & Trend Analysis**: Modeled long-term linear trajectories for trip purposes, duration of stay, demographics, and source regions.
 * **R Software**:
   * **Dataset Partitioning**: The estimation/training sample spans **January 1971 to December 2021**, while **January 2022 to December 2023** is reserved for out-of-sample model evaluation and testing[cite: 1].
   * **Missing Value Imputation**: Severe shocks (April 2019 Easter Bombings) and COVID-19 pandemic airport closures (April 2020 – December 2020) caused missing arrival records[cite: 1]. These gaps were imputed using statistical estimation techniques in R prior to time series modeling[cite: 1].
