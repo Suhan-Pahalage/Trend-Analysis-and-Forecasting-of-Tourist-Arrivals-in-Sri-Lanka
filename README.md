@@ -7,11 +7,10 @@ A comprehensive empirical research project evaluating historical tourist arrival
 ---
 
 ## 📋 Academic Metadata
-* **Institution**: University of Sri Jayewardenepura[cite: 1]
-* **Course**: STA 351 2.0 Research Methodology[cite: 1]
-* **Authors**: S. Pahalage, W.H.S.C. Wijayarathna, I.A.A. Wathsala, S.P.O.V. Pathirathna, R.T.T. Budunwela[cite: 1]
-* **Supervisor**: Dr. Neluka Devpura[cite: 1]
-* **Primary Tools**: R, Minitab[cite: 1]
+* **Institution**: University of Sri Jayewardenepura
+* **Course**: STA 351 2.0 Research Methodology
+* **Authors**: S. Pahalage, W.H.S.C. Wijayarathna, I.A.A. Wathsala, S.P.O.V. Pathirathna, R.T.T. Budunwela
+* **Primary Tools**: R, Minitab
 
 ---
 
@@ -159,5 +158,3 @@ Stationarity of the monthly arrival data (1971–2021) was evaluated using the A
 4. **Market Expansion**: Concentrate promotional campaigns within high-growth Asia-Pacific source markets[cite: 1].
 
 ---
-
-## 📁 Repository Structure
